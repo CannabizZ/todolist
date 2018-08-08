@@ -141,5 +141,8 @@ DEPENDENCIES
   turbolinks
   uglifier (~> 2.7)
 
+RUBY VERSION
+   ruby 2.5.1p57
+
 BUNDLED WITH
    1.15.2
