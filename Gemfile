@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '~> 5.2.1'
+gem 'bootsnap', '>= 1.1.0', require: false
 
 group :production do
 
