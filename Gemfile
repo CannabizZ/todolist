@@ -17,7 +17,3 @@ end
 group :development do
 
 end
-
-
-
-
